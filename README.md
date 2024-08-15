@@ -18,3 +18,5 @@ The dataset used for this project consists of images categorized into two classe
    - Train and optimize Support Vector Machine (SVM) and Random Forest classifiers.
    - Evaluate model performance using accuracy and F1 score on the test data.
 
+## Note:
+You will know rest of the things once you open the file.
